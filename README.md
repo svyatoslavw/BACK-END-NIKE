@@ -8,7 +8,7 @@
 # Nike Clone NestJS | Backend
 ## Description
 
-[Frontend](https://github.com/nestjs/nest) side is here
+[Frontend](https://github.com/Svyatoslavq/FRONT-END-NIKE) side is here
 
 ## Nike store clone
 This repository is a clone of Nike's online store, created as part of training and demonstration of web development and design skills. The project was developed using the following technologies: [SCSS, TypeScript].
